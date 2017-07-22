@@ -1,14 +1,14 @@
 name       : openfx-misc
-version    : 2.1.9
-release    : 1
+version    : 2.3.0
+release    : 2
 source     :
-    - https://github.com/MrKepzie/Natron/releases/download/2.1.9/openfx-misc-2.1.9.tar.xz : 110b64070de3e9a46b25aa8d4aeaf5950e3d6bd0ca04d9bf3a81014ab34c070a
+    - git|https://github.com/devernay/openfx-misc.git : Natron-2.3.0
 license    : GPL-2.0
 component  : multimedia.graphics
+networking : yes
 summary    : Miscellaneous OpenFX plugins
 description: |
     Miscellaneous OpenFX plugins
-networking : yes
 builddeps  :
     - pkgconfig(gl)
 build      : |
