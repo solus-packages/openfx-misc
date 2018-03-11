@@ -2,8 +2,8 @@
     <Source>
         <Name>openfx-misc</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Packager>
         <License>GPL-2.0</License>
         <PartOf>multimedia.graphics</PartOf>
@@ -220,36 +220,65 @@
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/net.sf.openfx.Shadertoy.png</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/net.sf.openfx.Shadertoy.svg</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/Makefile</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/CRT-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/DawnBringer 4bit-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/DoF_bokeh_2.4-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/DoF_bokeh_2.4.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/Shadertoy.txt</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/anaglyphic-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/ball.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/barrelblurchroma-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/barrelblurchroma.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/basicfractal.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bilateralfilter-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bilateralfilter.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bleepyblocks.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bloompaint-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bloompostproc-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bloompostproc.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/blurpoissondisc-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/blurpoissondisc.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bokehdisc-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/bubbles.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/c64.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/cellular.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/chromaticaberration.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/circularblur-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/circularblur.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/cloud-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/cloudy sky-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/cmykhalftone-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/cmykhalftone.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/color grid-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/colorcircles.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/cubify-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/deformflower.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/disks-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/dotdotdot-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/dotdotdot.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/fastblur-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/fastblur.frag.glsl</Path>
-            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/fastclouds.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/filmgrain-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/filmgrain.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/fireball-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/fireball.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/fisheye-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/flaring.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/flash-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/fractaltiling.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/gaussianblur-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/gaussianblur.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitch01-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitch01.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitch02-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitch02.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitchA-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitchA.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitchB-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glitchB.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/glowingthing.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/hdrbloom.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/imagecelshade-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/imagecelshade.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/infinitefall.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/inputtime.frag.glsl</Path>
@@ -257,41 +286,59 @@
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/iterationscoral.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/iterationsguts.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/iterationsinv.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/iterationsshiny.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/iterationstrig.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/iterationsworms.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/juliabulb.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/juliasm.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/juliatrap.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/kaleidoscope-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/lensflare.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/mandelbrotdist.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/mandelbrottrap.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/medianfilter-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/medianfilter.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/mipmapblur-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/mipmapblur.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/moneyfilter-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/moneyfilter.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/montecarloblur-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/montecarloblur.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/mpegartifacts.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/noise distortion-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/noise.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/noiseanimelectric.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/noiseanimlava.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/noiseanimwatery.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/noiseblur.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/notebook.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/oldvideo-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/oldvideo.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/plasma2.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/plasmatriangle.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/postprocessing-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/postprocessing.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/quadmirror-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/radialblur-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/radialblur.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/raining.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/sea-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/sharpen-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/silexarst.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/simplefire.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/sinebands.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/skyatnight.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/spiral.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/star nest-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/startunnel.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/stellar.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/stripes-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/test.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/tvsnow.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/vangogh.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/venus.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/vignette-natron.frag.glsl</Path>
+            <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/voronoi distance-natron.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/warp.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/warpproc1.frag.glsl</Path>
             <Path fileType="data">/usr/share/OFX/Plugins/Shadertoy.ofx.bundle/Contents/Resources/presets/default/warpproc2.frag.glsl</Path>
@@ -303,12 +350,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2017-07-22</Date>
-            <Version>2.3.0</Version>
+        <Update release="10">
+            <Date>2018-03-09</Date>
+            <Version>2.3.4</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Update>
     </History>
 </PISI>
