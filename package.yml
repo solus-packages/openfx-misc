@@ -1,8 +1,8 @@
 name       : openfx-misc
 version    : 2.3.4
-release    : 10
+release    : 11
 source     :
-    - git|https://github.com/devernay/openfx-misc.git : Natron-2.3.4
+    - git|https://github.com/NatronGitHub/openfx-misc.git : Natron-2.3.11
 license    : GPL-2.0
 component  : multimedia.graphics
 networking : yes

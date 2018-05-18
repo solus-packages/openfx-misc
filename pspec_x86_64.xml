@@ -2,8 +2,8 @@
     <Source>
         <Name>openfx-misc</Name>
         <Packager>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-2.0</License>
         <PartOf>multimedia.graphics</PartOf>
@@ -350,12 +350,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="10">
-            <Date>2018-03-09</Date>
+        <Update release="11">
+            <Date>2018-05-18</Date>
             <Version>2.3.4</Version>
             <Comment>Packaging update</Comment>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
