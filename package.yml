@@ -1,9 +1,9 @@
 name       : openfx-misc
 version    : 2.3.14
-release    : 12
+release    : 13
 source     :
     - git|https://github.com/NatronGitHub/openfx-misc.git : Natron-2.3.14
-license    : GPL-2.0
+license    : GPL-2.0-or-later
 component  : multimedia.graphics
 networking : yes
 summary    : Miscellaneous OpenFX plugins
