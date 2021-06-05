@@ -1,0 +1,9 @@
+CImg.ofx:OFX_1.0
+CImg.ofx:OfxGetNumberOfPlugins
+CImg.ofx:OfxGetPlugin
+Misc.ofx:OFX_1.0
+Misc.ofx:OfxGetNumberOfPlugins
+Misc.ofx:OfxGetPlugin
+Shadertoy.ofx:OFX_1.0
+Shadertoy.ofx:OfxGetNumberOfPlugins
+Shadertoy.ofx:OfxGetPlugin
